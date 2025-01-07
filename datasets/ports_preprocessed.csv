@@ -1,0 +1,76 @@
+﻿commodities,class,state,longitude,latitude
+Coal,Commodity,Queensland,148.08333,-19.88333
+Silica Sands,Commodity,Western Australia,117.88924,-35.03078
+Iron Ore,Commodity,South Australia,137.91678,-34.43709
+"Ammonia, Iron Ore, Liquid Natural Gas, Salt",Commodity,Western Australia,115.86545,-21.16665
+Iron Ore,Commodity,Western Australia,115.46379,-20.78951
+"Aluminium, Bauxite, Manganese, Sinter",Commodity,Tasmania,146.8839,-41.1602
+Iron Ore,Commodity,Northern Territory,136.38912,-15.62719
+"Alumina, Aluminium, Bauxite, Copper - Concentrate, Copper - Ore, Copper - Refined, Heavy Mineral Sands, Lead - Concentrate, Lead - Ore, Lead - Refined, Liquid Natural Gas, Manganese, Nickel, Oil and Petroleum, Salt, Silica Sands, Zinc  - Concentrate, Zinc - Ore, Zinc - Refined",Commodity,New South Wales,151.2166,-33.97067
+"Aluminium, Coal, Heavy Mineral Sands, Liquid Natural Gas, Manganese, Oil and Petroleum, Silica Sands, Steel, Tungsten, Zinc - Refined",Commodity,Queensland,153.17156,-27.37148
+Oil and Petroleum,Commodity,Western Australia,122.21253,-18.00359
+"Alumina, Copper - Concentrate, Heavy Mineral Sands, Lithium, Oil and Petroleum, Silica Sands",Commodity,Western Australia,115.66655,-33.32127
+Silica Sands,Commodity,Queensland,152.38285,-24.77099
+"Aluminium, Copper - Concentrate, Lead - Concentrate, Magnetite, Silica Sands, Tin, Tungsten, Zinc  - Concentrate, Zinc - Ore",Commodity,Tasmania,145.91118,-41.05032
+Oil and Petroleum,Commodity Military,Queensland,145.78038,-16.92603
+Iron Ore,Commodity,Western Australia,113.39411,-24.22505
+Silica Sands,Commodity,Queensland,145.35266,-14.98353
+Iron Ore,Commodity,Western Australia,116.20683,-20.84266
+Phosphate ,Commodity,Australian Overseas Territory,105.67167,-10.42509
+Phosphate ,Commodity,Australian Overseas Territory,96.89274,-12.11663
+"Ammonia, Crude Oil, Iron Ore, Liquid Natural Gas, Lithium, Salt",Commodity,Western Australia,116.70109,-20.66269
+"Illmenite, Liquid Natural Gas, Manganese, Uranium",Commodity Military,Northern Territory,130.84527,-12.47116
+"Liquid Natural Gas, Oil and Petroleum",Commodity,Tasmania,146.36631,-41.18003
+Iron Ore,Commodity Military,New South Wales,149.92851,-37.10199
+"Copper - Concentrate, Iron Ore, Lithium, Nickel, Potash, Tantalum",Commodity,Western Australia,121.89836,-33.87233
+"Alumina, Aluminium, Ammonia, Bauxite, Copper - Concentrate, Copper - Ore, Heavy Mineral Sands, Iron Ore, Lead - Concentrate, Liquid Natural Gas, Lithium, Manganese, Nickel, Oil and Petroleum, Potash, Salt, Silica Sands, Silver, Steel, Zinc  - Concentrate, Zinc - Ore",Commodity,Western Australia,115.74806,-32.0472
+"Fertiliser, Oil and Petroleum",Commodity,Victoria,144.36465,-38.10478
+"Copper - Concentrate, Garnet, Heavy Mineral Sands, Iron Ore, Lead - Concentrate, Potash, Talc, Zinc  - Concentrate",Commodity,Western Australia,114.59309,-28.77461
+"Alumina, Aluminium, Coal, Heavy Mineral Sands, Liquid Natural Gas",Commodity,Queensland,151.24153,-23.82563
+Bauxite,Commodity,Northern Territory,136.67832,-12.20134
+"Crude Oil, Liquid Natural Gas, Oil and Petroleum, Steel",Commodity Military,New South Wales,149.92851,-37.10199
+Coal,Commodity,Queensland,149.2838,-21.27736
+Iron Ore,Commodity,Western Australia,118.57387,-20.315005
+"Fertiliser, Paragoethite, Sulphuric Acid, Zinc - Refined",Commodity,Tasmania,147.33377,-42.883067
+"Lead - Concentrate, Zinc  - Concentrate",Commodity,Queensland,140.83023,-17.49386
+Iron Ore,Commodity,Tamania,144.06018,-40.06512
+Limestone,Commodity,South Australia,137.77,-34.97
+Iron Ore,Commodity,Western Australia,123.7492,-16.1484
+"Alumina, Bauxite, Lithium, Oil and Petroleum, Potash",Commodity,Western Australia,115.75972,-32.24187
+Iron Ore,Commodity,Tasmania,147.12395,-41.42815
+Iron Ore,Commodity,Queensland,146.33155,-18.5238
+Fertiliser,Commodity,Queensland,149.22263,-21.106788
+"Aluminium, Antimony, Coal, Copper - Refined, Lead - Refined, Liquid Natural Gas, Oil and Petroleum, Steel, Zinc - Refined",Commodity,Victoria,144.91585,-37.817451
+Iron Ore,Commodity,Northern Territory,136.41979,-13.85912
+Iron Ore,Commodity,Queensland,146.12453,-17.59959
+"Aluminium, Ammonia, Coal, Copper - Concentrate, Lead - Concentrate, Manganese, Silica Sands, Steel, Zinc  - Concentrate",Commodity,New South Wales,151.77185,-32.91538
+Iron Ore,Commodity,Western Australia,115.10122,-21.63765
+"Copper - Concentrate, Heavy Mineral Sands, Scrap Metal, Uranium",Commodity,South Australia,138.5063,-34.83067
+Iron Ore,Commodity,Queensland,150.86283,-23.58269
+Liquid Natural Gas,Commodity,South Australia,137.76418,-32.9925
+Iron Ore,Commodity,Western Australia,114.18925,-21.81631
+Iron Ore,Commodity,South Australia,137.76132,-35.02219
+"Copper - Concentrate, Iron Ore, Lithium, Manganese, Salt, Tantalum",Commodity,Western Australia,118.57387,-20.315005
+"Copper - Concentrate, Steel",Commodity,New South Wales,150.89045,-34.45455
+Iron Ore,Commodity,Tasmania,145.38227,-40.85045
+Iron Ore,Commodity,South Australia,135.86951,-34.72168
+Illmenite,Commodity,Northern Territory ,130.4212,-11.4215
+"Scrap Metal, Sulphuric Acid, Zinc  - Concentrate",Commodity,South Australia,138.0139,-33.18032
+Iron Ore,Commodity,South Australia,138.47169,-35.11048
+Iron Ore,Commodity,Western Australia,117.17867,-20.59587
+"Aluminium, Heavy Mineral Sands",Commodity,Victoria,141.61508,-38.35179
+Iron Ore,Commodity,South Australia,138.1855,-35.52339
+Bauxite,Commodity,Queensland,142.0703,-11.75819
+Iron Ore,Commodity Military,New South Wales,151.190688,-33.86068
+"Gypsum, Heavy Mineral Sands, Salt",Commodity,South Australia,133.64382,-32.14867
+Iron Ore,Commodity,Queensland,142.22131,-10.58509
+"Copper - Concentrate, Copper - Refined, Lead - Concentrate, Lead - Refined, Zinc  - Concentrate, Zinc - Refined",Commodity,Queensland,146.8307,-19.25312
+Iron Ore,Commodity,Western Australia,113.41456,-26.09021
+"Iron Ore, Lithium",Commodity,Western Australia,118.56296,-20.30427
+Iron Ore,Commodity,Western Australia,115.57519,-20.655187
+Limestone,Commodity,South Australia,137.619638,-33.929309
+Bauxite,Commodity,Queensland,141.869774,-12.670426
+Iron Ore,Commodity,South Australia,137.594429,-33.01487
+Iron Ore,Commodity,New South Wales,150.889464,-34.460545
+Potash,Commodity,Western Australia,128.10117,-15.451927
+Iron Ore,Commodity,Western Australia,123.750246,-16.147198
